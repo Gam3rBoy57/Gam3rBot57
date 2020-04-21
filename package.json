@@ -1,0 +1,17 @@
+{
+  "name": "Gam3rBoy57s_Bot",
+  "version": "57",
+  "description": "LULW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node .": "node run index.js"
+  },
+  "author": "Gam3rBoy57",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^2.0.0"
+  }
+}
